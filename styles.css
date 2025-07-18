@@ -13,6 +13,9 @@ main{
     width:100%;
     position: fixed;
 }
+.navigationbar ul a:link {
+    color: white;
+}
 .navigationbar ul a:visited {
     color: white;
 }
